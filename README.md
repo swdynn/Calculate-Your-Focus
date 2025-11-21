@@ -1,2 +1,2 @@
 # Calculate-Your-Focus
-I'm getting really bored these days, idk there is nothing new going on.
+all this does is it gets your study time divides it by the break time and multiplys it by 4 and it gives you, well the result
